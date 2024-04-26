@@ -2,3 +2,4 @@ asyncio
 pandas
 streamlit
 gql
+websockets

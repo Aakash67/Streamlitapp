@@ -1,4 +1,4 @@
 asyncio
-pandas>=2.0
-streamlit>=1.25
-gql>=4.0
+pandas
+streamlit
+gql
